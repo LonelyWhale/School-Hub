@@ -1,0 +1,18 @@
+Stage 1 
+***********************************************************************
+1) Create password validation for signup.
+2) User details change.
+3) Restricted role creation.
+4) Admin Panel.
+5) Teacher Panel.
+6) Create course tables and web pages for:
+    a) Enlgish
+    b) Maths
+    c) Science
+
+Stage 2
+***********************************************************************
+1) Sending emails/messages through the website.
+2)
+3)
+4)
